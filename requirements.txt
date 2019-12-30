@@ -1,0 +1,2 @@
+python-fedora==0.10.0
+
